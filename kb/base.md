@@ -1,5 +1,5 @@
 # EMDRlink — BASE
-version: 2026-03-08.1
+version: 2026-03-08.2
 
 ## Jak używać tej bazy
 - `kb/base.md` to indeks + zasady nadrzędne.
@@ -24,6 +24,7 @@ version: 2026-03-08.1
 - [04 — Neuro Tapper (short)](moduly/04-EMDRlink-neuro-tapper-short.md)
 - [05 — Zawartość strony](moduly/05-EMDRlink-zawartosc-strony.md)
 - [09 — Podstawa prawna (edukacja)](moduly/09-EMDRlink-podstawa-prawna-edukacja.md)
+- [10 — Wnioski z badan](moduly/10-EMDRlink-market-intel-wnioski.md)
 
 ## Changelog
-- 2026-03-08.1 — utworzenie bazy modułowej
+- 2026-03-08.2 — utworzenie bazy modułowej
